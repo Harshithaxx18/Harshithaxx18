@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Harshitha GitHub Banner" style="width:100%;"/>
 ### Hi there! I'm Harshitha 👋
 
 🎓 B.Tech CSE @ GRIET, Hyderabad (2022–2026)  
